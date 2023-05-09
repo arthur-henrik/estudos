@@ -1,1 +1,1 @@
-# estudos
+# estudos de lógica usando phyton!!!
